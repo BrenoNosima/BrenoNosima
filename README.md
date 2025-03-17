@@ -153,19 +153,17 @@ Me chamo Breno Bertaglia Nosima, tenho 19 anos e sou natural do Paraná. Atualme
 
 ### 📊 Estatísticas
 
-<p>
+<p style="display: flex; justify-content: space-between;">
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="180em"
+    height="200"
     width="48%"
     style="padding-right: 10px;" 
     src="https://github-readme-stats.vercel.app/api?username=BrenoNosima&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    align="left" 
     alt="GitHub Stats" 
-    height="180em"
+    height="200"
     width="48%"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoNosima&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
