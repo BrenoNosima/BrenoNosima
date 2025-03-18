@@ -1,8 +1,13 @@
 # 👨🏻‍💻 Breno Nosima
 
-Meu nome é Breno Bertaglia Nosima, tenho 19 anos e sou natural do Paraná. Atualmente, curso Engenharia de Software na Unicesumar. Sou apaixonado por tecnologia e motivado por desafios que exigem pensamento crítico e inovação.
+👋 Hi! I'm Breno Bertaglia Nosima
+📍 From Paraná, Brazil | 🎓 Software Engineering Student at Unicesumar
 
-Tenho um olhar analítico para a resolução de problemas e gosto de explorar abordagens criativas para encontrar soluções eficientes. Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em realidade, e estou sempre em busca de aprendizado e aprimoramento para evoluir como profissional.
+💡 Passionate about technology and driven by innovation. I thrive on challenges that require critical thinking and creative problem-solving.
+
+🚀 I love analyzing complex problems and exploring efficient, outside-the-box solutions. Technology is a powerful tool to turn ideas into reality, and I'm always eager to learn, grow, and create impact.
+
+Let's connect! 🤝✨
 
 <div> 
   <!--<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
@@ -14,7 +19,7 @@ Tenho um olhar analítico para a resolução de problemas e gosto de explorar ab
 </div>
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 🤖 Languages ​​and Technologies
 
 <img 
     align="left" 
@@ -162,7 +167,7 @@ Tenho um olhar analítico para a resolução de problemas e gosto de explorar ab
 <br/>
 <br/>
 
-### 📊 Estatísticas
+### 📊 Statistics
 
 <div>
         <img height="180em width="42%" src="https://github-readme-stats.vercel.app/api?username=BrenoNosima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
