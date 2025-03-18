@@ -169,7 +169,7 @@ Let's connect! 🤝✨
 
 ### 📊 Statistics
 
-<div>
-        <img height="180em" width="42%" src="https://github-readme-stats.vercel.app/api?username=BrenoNosima&hide=contribs,issues&show_icons=true&theme=dark"/>
-        <img height="180em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoNosima&layout=compact&&langs_count=8&theme=dark"/>
+<div style="display: flex; align-items: center;">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BrenoNosima&hide=contribs,issues&show_icons=true&theme=dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoNosima&layout=compact&langs_count=8&theme=dark"/>
 </div>
