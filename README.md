@@ -1,6 +1,8 @@
 # 👨🏻‍💻 Breno Nosima
 
-Me chamo Breno Bertaglia Nosima, tenho 19 anos e sou natural do Paraná. Atualmente, estou cursando Eng. de Software na Unicesumar. Sou apaixonado por tecnologia, adoro solucionar problemas e sempre busco abordagens criativas para encontrar as melhores soluções. Gosto de desafios que me fazem pensar fora da caixa e inovar!
+Meu nome é Breno Bertaglia Nosima, tenho 19 anos e sou natural do Paraná. Atualmente, curso Engenharia de Software na Unicesumar. Sou apaixonado por tecnologia e motivado por desafios que exigem pensamento crítico e inovação.
+
+Tenho um olhar analítico para a resolução de problemas e gosto de explorar abordagens criativas para encontrar soluções eficientes. Acredito que a tecnologia é uma ferramenta poderosa para transformar ideias em realidade, e estou sempre em busca de aprendizado e aprimoramento para evoluir como profissional.
 
 <div> 
   <!--<a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>-->
@@ -153,20 +155,7 @@ Me chamo Breno Bertaglia Nosima, tenho 19 anos e sou natural do Paraná. Atualme
 
 ### 📊 Estatísticas
 
-<p>
-   <img 
-     align="left" 
-     alt="GitHub Stats" 
-     height="200" 
-     style="padding-right: 10px;" 
-     src="https://github-readme-stats.vercel.app/api?username=BrenoNosima&show_icons=true&theme=dark&include_all_commits=true&locale=pt-br" 
-   />
- 
- <img 
-       align="left" 
-       alt="GitHub Stats" 
-       height="200" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoNosima&theme=dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
-   />
- 
- </p>
+<div>
+        <img height="180em width="42%" src="https://github-readme-stats.vercel.app/api?username=BrenoNosima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+        <img height="180em width="50%"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoNosima&layout=compact&langs_count=16&theme=dark"/>
+</div>
