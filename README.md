@@ -46,6 +46,15 @@ Let's connect! 🤝✨
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
 
+<img 
+    align="left" 
+    alt="Vue.js" 
+    title="Vue.js"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vuejs/vuejs-original.svg" 
+/>
+
 <!-- <img 
     align="left" 
     alt="TypeScript"
@@ -171,7 +180,19 @@ Let's connect! 🤝✨
 
 ### 📊 Statistics
 
-<div>
-<!--          <img height="180em width="42%" src="https://github-readme-stats.vercel.app/api?username=BrenoNosima&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-         <img height="180em width="50%"" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoNosima&layout=compact&langs_count=16&theme=dark"/>
- </div>
+<p>
+    <img 
+        text-align: left
+        alt="GitHub Stats"
+        height="150px"
+        style="padding-right:10px;"
+        src="https://github-readme-stats.vercel.app/api?username=BrenoNosima&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    />
+    <img 
+        text-align: left
+        alt="GitHub Stats"
+        height="150px"
+        style="padding-right:10px;"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrenoNosima&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    />
+  </p>
