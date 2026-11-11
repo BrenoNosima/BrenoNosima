@@ -32,22 +32,40 @@ I enjoy building projects that go beyond the academic environment, combining dif
 
 ## 🧠 Main Project
 
-### 💰 Contaí
+### 💰 Contaí — AI-Powered Personal Finance Management
 
-**Contaí** is a personal finance management application that combines traditional financial management features with an AI-powered assistant.
+**Contaí** is a full-stack personal finance management application that combines financial organization, intelligent automation, and artificial intelligence to help users manage their money efficiently.
 
-The project includes:
+The platform integrates a modern web interface with a robust backend and an AI-powered financial assistant capable of understanding natural language, analyzing financial data, and interacting with application features through **LangChain and Tool Calling**.
 
-* 💳 Income and expense management
-* 📊 Financial reports and dashboards
-* 🎯 Financial goals
-* 🔄 Recurring transactions
-* 🤖 AI financial assistant
-* 🧠 LLM integration with **LangChain**
-* 🛠️ Tool Calling for interaction with application data
-* 🔐 Authentication and user data isolation
-* 🐳 Dockerized environment
-* ☁️ Cloud deployment
+#### 🚀 Key Features
+
+- 💳 **Financial Management:** Track income, expenses, and transaction history.
+- 📊 **Interactive Dashboards:** Visualize financial insights, spending patterns, and account balances.
+- 🎯 **Financial Goals:** Create and monitor personalized savings goals.
+- 🔄 **Recurring Transactions:** Manage recurring income and expenses.
+- 🤖 **AI Financial Assistant:** Interact with financial information using natural language.
+- 🧠 **LangChain Integration:** LLM orchestration for contextual financial assistance.
+- 🛠️ **Tool Calling:** Enable AI-driven interactions with financial data and application services.
+- ✅ **Human-in-the-Loop:** Require user confirmation before executing sensitive financial actions.
+- 🔐 **Secure Authentication:** User authentication, authorization, and data isolation.
+- 🗄️ **Relational Database:** Persistent financial data storage using PostgreSQL.
+- 🐳 **Dockerized Architecture:** Containerized services for consistent development and deployment.
+- ☁️ **Cloud Deployment:** Architecture designed for cloud hosting and scalability.
+- 🧪 **Automated Testing:** Backend validation and testing for improved reliability.
+
+#### 🛠️ Tech Stack
+
+- **Frontend:** React, TypeScript
+- **Backend:** Python, FastAPI, SQLAlchemy
+- **Database:** PostgreSQL
+- **AI & LLM:** LangChain, Groq API, Tool Calling
+- **Infrastructure:** Docker, Docker Compose
+- **Architecture:** REST APIs, modular services, human-in-the-loop AI workflows
+
+#### 🎯 Project Goal
+
+To make personal finance management more accessible, intuitive, and intelligent by combining traditional financial tools with AI-driven assistance, while maintaining security, transparency, and user control over financial operations.
 
 ### Main technologies
 
